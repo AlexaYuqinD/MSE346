@@ -170,7 +170,6 @@ def get_policy_as_action_dict(polf: PolicyType, num_samples: int)\
 
     return pf
 
-
 if __name__ == '__main__':
     rewards_list = [1., 2., 3., 4., 5., 6.]
     gamma_val = 0.9
